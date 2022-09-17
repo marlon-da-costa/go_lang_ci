@@ -1,3 +1,3 @@
-module main
+module mathc
 
 go 1.19
