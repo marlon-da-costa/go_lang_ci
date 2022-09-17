@@ -16,4 +16,4 @@ jobs:
         with:
           go-version: ${{ matrix.go }}
       - run: go test
-      - run: go run match.go
+      - run: go run main.go
